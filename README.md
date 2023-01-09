@@ -47,5 +47,5 @@ infect). The code also generates one csv file for unique infected, and
 one csv file for unique control (This is done for both varieties of
 blank subtracted files).
 
-the part 3 code is run 2 times to get the final feature tables for both 
+The code is run 2 times to get the final feature tables for both 
 kinds of blank subtraction.
